@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, 
+initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color:lightblue;
+        }
+        h1{
+            font-family:Georgia, 'Times New Roman', Times, serif;
+        }
+        .para{
+            font-family: fantasy;
+        }
+    </style>
+</head>
+<body>
+<center>
+    <img src="CAFE.jpg">
+</center>
+
+<h1>CAFE IMPRESSO EXPRESSO</h1>
+<p>Service Option: Dine In</p>
+<p>Address: Baner Highstreet, next to platinum building, Pune, Maharashtra, 411056</p>
+<p>Phone Number- 02025677789</p>
+<p>Email= ImpressoExpresso.Gmail.com</p>
+
+</body>
+</html>
